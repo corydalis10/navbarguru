@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className="flex h-160">
+      <div className="flex h-140">
         <div className="m-auto">
           <details className="dropdown">
             <summary className="btn btn-xl m-1">Choose library</summary>
